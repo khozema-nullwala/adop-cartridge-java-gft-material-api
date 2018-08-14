@@ -10,9 +10,8 @@ This cartridge consists of source code repositories and jenkins jobs.
 
 Cartridge loads the source code repositories
 
-* [spring-petclinic](https://github.com/spring-projects/spring-petclinic.git)
-* [adop-cartridge-java-regression-tests](https://github.com/Accenture/adop-cartridge-java-regression-tests)
-* [adop-cartridge-java-environment-template](https://github.com/Accenture/adop-cartridge-java-environment-template)
+* [java-gft-vendor-api-project](https://github.com/khozema-nullwala/java-gft-vendor-api-project.git)
+* [adop-cartridge-java-environment-template](https://github.com/khozema-nullwala/adop-cartridge-java-environment-template.git)
 
 ## Jenkins Jobs
 

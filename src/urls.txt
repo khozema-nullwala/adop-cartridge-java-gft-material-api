@@ -1,3 +1,2 @@
-https://github.com/Accenture/spring-petclinic.git
-https://github.com/Accenture/adop-cartridge-java-regression-tests.git
-https://github.com/Accenture/adop-cartridge-java-environment-template.git
+https://github.com/khozema-nullwala/java-gft-material-api-project.git
+https://github.com/khozema-nullwala/adop-cartridge-java-environment-template-m.git
