@@ -216,6 +216,10 @@ deployJob.with {
             |  COUNT=$((COUNT+1))
             |done
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
+            |echo "=.=.TOMCAT=.=.LOGS.=.=."
+            |echo "=.=.=.=.=.=.=.=.=.=.=.=."
+            |docker logs ${SERVICE_NAME} 
+            |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
             |echo "Environment URL (replace PUBLIC_IP with your public ip address where you access jenkins from) : http://${SERVICE_NAME}.PUBLIC_IP.xip.io/project"
             |echo "=.=.=.=.=.=.=.=.=.=.=.=."
